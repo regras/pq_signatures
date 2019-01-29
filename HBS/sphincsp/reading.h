@@ -1,0 +1,1 @@
+void FileReading(FILE *fp, int size, unsigned char value[size]);

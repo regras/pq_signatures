@@ -1,0 +1,1 @@
+- PQCgenKAT_sign.c file was modified: for(i=0;i<100;i++) --> for(i=0;i<1;i++): Only one set of (msg, pk, sk, sm)
