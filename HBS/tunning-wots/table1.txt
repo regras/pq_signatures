@@ -1,0 +1,40 @@
+w = 2 m = 128 nc = 8 nu = 0 t2w = 8 
+w = 2 m = 192 nc = 9 nu = 1 t2w = 10 
+w = 2 m = 256 nc = 9 nu = 1 t2w = 10 
+w = 2 m = 512 nc = 10 nu = 0 t2w = 10 
+
+w = 4 m = 128 nc = 9 nu = 3 t2w = 12 
+w = 4 m = 192 nc = 10 nu = 2 t2w = 12 
+w = 4 m = 256 nc = 10 nu = 2 t2w = 12 
+w = 4 m = 512 nc = 11 nu = 1 t2w = 12 
+
+w = 6 m = 128 nc = 11 nu = 1 t2w = 12 
+w = 6 m = 192 nc = 11 nu = 1 t2w = 12 
+w = 6 m = 256 nc = 12 nu = 0 t2w = 12 
+w = 6 m = 512 nc = 13 nu = 5 t2w = 18 
+
+w = 8 m = 128 nc = 12 nu = 4 t2w = 16 
+w = 8 m = 192 nc = 13 nu = 3 t2w = 16 
+w = 8 m = 256 nc = 13 nu = 3 t2w = 16 
+w = 8 m = 512 nc = 14 nu = 2 t2w = 16 
+
+w = 10 m = 128 nc = 14 nu = 6 t2w = 20 
+w = 10 m = 192 nc = 15 nu = 5 t2w = 20 
+w = 10 m = 256 nc = 15 nu = 5 t2w = 20 
+w = 10 m = 512 nc = 16 nu = 4 t2w = 20 
+
+w = 12 m = 128 nc = 16 nu = 8 t2w = 24 
+w = 12 m = 192 nc = 16 nu = 8 t2w = 24 
+w = 12 m = 256 nc = 17 nu = 7 t2w = 24 
+w = 12 m = 512 nc = 18 nu = 6 t2w = 24 
+
+w = 14 m = 128 nc = 18 nu = 10 t2w = 28 
+w = 14 m = 192 nc = 18 nu = 10 t2w = 28 
+w = 14 m = 256 nc = 19 nu = 9 t2w = 28 
+w = 14 m = 512 nc = 20 nu = 8 t2w = 28 
+
+w = 16 m = 128 nc = 19 nu = 13 t2w = 32 
+w = 16 m = 192 nc = 20 nu = 12 t2w = 32 
+w = 16 m = 256 nc = 20 nu = 12 t2w = 32 
+w = 16 m = 512 nc = 21 nu = 11 t2w = 32 
+
